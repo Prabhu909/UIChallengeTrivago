@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19616" started-at="2018-07-10T21:30:02Z" finished-at="2018-07-10T21:30:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19616" started-at="2018-07-10T21:30:02Z" finished-at="2018-07-10T21:30:21Z">
+      <class name="com.test.assignment.UITestCase.SignInTest">
+        <test-method status="PASS" signature="openWindow()[pri:0, instance:com.test.assignment.UITestCase.SignInTest@50b5ac82]" name="openWindow" is-config="true" duration-ms="6" started-at="2018-07-11T03:00:02Z" finished-at="2018-07-11T03:00:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWindow -->
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:com.test.assignment.UITestCase.SignInTest@50b5ac82]" name="signInTest" duration-ms="19601" started-at="2018-07-11T03:00:02Z" finished-at="2018-07-11T03:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+      </class> <!-- com.test.assignment.UITestCase.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
