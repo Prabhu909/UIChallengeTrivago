@@ -1,0 +1,10 @@
+-----------Front End Excercise--------------
+
+--->The framework structured as Page Object model as, we are storing page object in a class file and accessing those object in the test cases by creating the object of the class files.
+
+
+To run need to have a chrome driver compatible to selenium 2.53 version(already present in the framework)
+I have added the dependencies in the pom.xml file for testng 6.8 version and selenium 2.53 version.
+To run system need to have Java 1.7 minimum.
+
+The application build on a maven java project structure.
